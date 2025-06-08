@@ -4,7 +4,6 @@ A lightweight, educational MVC (Model-View-Controller) framework built from scra
 
 ## Features
 
-- **Clean URL Routing**: SEO-friendly URLs with automatic controller/method resolution
 - **MVC Architecture**: Clear separation of concerns with Models, Views, and Controllers
 - **Database Abstraction**: Simple CRUD operations with PDO support
 - **Template System**: View rendering with layout support
